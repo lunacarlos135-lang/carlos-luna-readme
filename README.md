@@ -1,6 +1,7 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Carlos
 ##  About Me
 _Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am a Junior in college majoring in Cyber Security and I am also a soccer player. I currently have an internship and I play the piano as well.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +14,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"One Day or Day One"_
