@@ -1,6 +1,5 @@
 ## 👏 Hi, I'm Carlos
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
 I am a Junior in college majoring in Cyber Security and I am also a soccer player. I currently have an internship and I play the piano as well.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
